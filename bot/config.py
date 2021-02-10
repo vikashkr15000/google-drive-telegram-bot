@@ -1,7 +1,7 @@
 class config:
-    BOT_TOKEN = "1497067487:AAHGsTLcQhSdkbhvM-K5eRj7RRNhn49m-tM"
-    APP_ID = "2214758"
-    API_HASH = "d57b9748c9739d6de23435f7998b342c"
+    BOT_TOKEN = "1670437251:AAFy6Y5xzsRpiNGnYcC2NA2bvSHE34haHAs"
+    APP_ID = "2763505"
+    API_HASH = "6404dccdc6aaeb5057310a2179f907e8"
     DATABASE_URL = "postgres://systqcaaolnwyj:683e1fb1700ff2a50eec244dcbeed1d7d8e5d35795b9459f42c9b415fe366271@ec2-52-71-153-228.compute-1.amazonaws.com:5432/dcfutds15081up"
     SUDO_USERS = "579011528" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/AAAAAELQHBbVOMxQqZ0KkA"
